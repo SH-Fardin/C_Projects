@@ -1,3 +1,3 @@
-This is my first repository
+C projects for SPL course
 <br>
 Author - Shad Hossain Fardin
